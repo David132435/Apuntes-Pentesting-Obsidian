@@ -1,0 +1,13 @@
+
+- 20 - FTP
+- 21 - FTP
+- 22 - SSH
+- 80 - HTTP
+- 135 - Windows NetBIOS
+- 443 - HTTPS
+- 445 - Windows [[SMB]]
+- 3128 - Squid Proxy
+-  3306 - MySQL
+- 3389 - Windows [[RDP]]
+- 5985 - Windows [[WinRM]]
+- 5986 - Windows [[WinRM]]
